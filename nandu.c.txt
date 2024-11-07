@@ -1,0 +1,11 @@
+#include <conio.h>
+#include<stdio.h>
+void main{
+int i,j;
+j=10;
+i=0;
+while(i<j){
+printf("your code is done");
+i++;
+}
+} 
